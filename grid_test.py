@@ -2,7 +2,7 @@ from grid import Grid
 import unittest
 '''
     Aliya Jordan
-    CS 5002
+    CS 5001
     Project
 
 This file is to test certain functions of the Grid class.
